@@ -1,0 +1,6 @@
+{
+  "name": "Consillium Jurídico",
+  "description": "Landing page de alta gama para Consillium Jurídico, firma legal y consejo estratégico de élite con diseño Glassmorphic premium.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
